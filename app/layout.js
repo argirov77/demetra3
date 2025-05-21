@@ -2,7 +2,7 @@
 import '../styles/globals.css'
 
 export const metadata = {
-  title: 'CONAIL Media Affiliate Marketing',
+  title: 'CONAIL-Media Affiliate Marketing',
   description: 'Premium affiliate marketing strategies to drive your brand’s growth',
 }
 
